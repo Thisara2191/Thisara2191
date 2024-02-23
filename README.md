@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-🎓 Hello! I'm Thisara Praveen Batagodage, an undergraduate student pursuing Software Engineering at IIC University of Cambodia. My passion lies in creating innovative solutions through programming. I anticipate graduating by the end of 2024 and look forward to contributing my skills to the tech industry.
+🎓 I'm Thisara Praveen Batagodage, a dedicated undergraduate studying Software Engineering at IIC University of Cambodia. Originally from Sri Lanka, I'm enthusiastic about leveraging technology to solve real-world problems. Anticipating my graduation by the end of 2024, I'm eager to embark on a fulfilling journey in the field of software development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
