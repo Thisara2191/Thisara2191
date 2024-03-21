@@ -3,8 +3,10 @@
 #### 🚀 ABOUT ME
 I'm Thisara Praveen Batagodage, completing Software Engineering at IIC University of Cambodia, provided by the Java Institute for Advanced Technology. I'm from Sri Lanka, I'm passionate about technology, particularly Java. Eager to graduate in 2024 and dive into full-stack development, combining my love for problem-solving with innovative software solutions.
 
+
 #### 🎓 EDUCATION 
 Undergraduate BEng (Hons) Software Engineering : IIC University - Cambodia
+
 
 #### 🛠️ SKILLS
 
@@ -22,7 +24,8 @@ Undergraduate BEng (Hons) Software Engineering : IIC University - Cambodia
 
 ###### Android Development
  [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
  
 #### 🚁 PLATFORMS
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisara-611771225) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thisara2191) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisara2fdo@gmail.com)
+Connect Me With : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisara-611771225) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thisara2191) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisara2fdo@gmail.com)
 
