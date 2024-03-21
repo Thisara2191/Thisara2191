@@ -1,8 +1,12 @@
 # Hello !! 👋
 
-#### 🚀 About Me
-I'm Thisara Praveen Batagodage, currently an undergraduate in Software Engineering at IIC University of Cambodia. Originally from Sri Lanka, I'm passionate about technology and problem-solving. Excited to graduate by the end of 2024 and dive into the world  of software development!.
+#### 🚀 ABOUT ME
+I'm Thisara Praveen Batagodage, completing Software Engineering at IIC University of Cambodia, provided by the Java Institute for Advanced Technology. I'm from Sri Lanka, I'm passionate about technology, particularly Java. Eager to graduate in 2024 and dive into full-stack development, combining my love for problem-solving with innovative software solutions.
 
 #### 🎓 EDUCATION 
+Undergraduate BEng (Hons) Software Engineering : IIC University - Cambodia
 
+#### 🛠️ Skills
+###### Languages
+![<Java>](https://img.shields.io/badge/<Badge Java>-<Background Red>?style=for-the-badge&logo=<Icon Java>&logoColor=<Logo Green>)
 
